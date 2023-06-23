@@ -8,9 +8,9 @@
 
 
     <style name="Theme.CustomSplashScreenTheme" parent="Theme.SplashScreen">
-        <item name="windowSplashScreenBackground">@color/backgroundColor</item>
-        <item name="windowSplashScreenAnimatedIcon">@drawable/playstore_icon</item>
-        <item name="windowSplashScreenAnimationDuration">600</item>
+        <item name="android:windowBackground">@drawable/splash_drawable</item>
+        <item name="windowSplashScreenBackground">@color/ic_launcher_background</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/splash_logo</item>
         <item name="postSplashScreenTheme">@style/Theme.Weather</item>
     </style>
 </resources>
