@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Weather</string>
+
+    <!--    OnBoarding Strings-->
+    <string name="onBoardingTitle1">Check real-time\nweather!!!</string>
+    <string name="onBoardingTitle2">Check real-time\nweather!!!</string>
+    <string name="onBoardingTitle3">Check real-time\nweather!!!</string>
+    <string name="onBoardingText1">Lorem Ipsum is simply dummy text of the\nprinting and typesetting industry.</string>
+    <string name="onBoardingText2">Lorem Ipsum is simply dummy text of the\nprinting and typesetting industry.</string>
+    <string name="onBoardingText3">Lorem Ipsum is simply dummy text of the\nprinting and typesetting industry.</string>
+
+</resources>
